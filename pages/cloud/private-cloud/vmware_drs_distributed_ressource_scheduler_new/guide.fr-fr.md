@@ -24,7 +24,7 @@ En partant sur le fait que **DRS** nous permettra de mieux répartir les ressour
 ### Activation
 
 DRS est activé par défaut dans le cluster de base qu'OVH vous fournit lors de la livraison de votre Cloud Privé.
-En cas de création d'un nouveau cluster, vous pouvez l'activé, lors de la création de celui-ci, ou après.
+En cas de création d'un nouveau cluster, vous pouvez l'activer, lors de la création de celui-ci, ou après.
 
 Si dans votre cluster, DRS n'est pas activé, rendez vous dans l'onglet `Configure` de votre cluster puis sur l'onglet `vSphere DRS` disponible dans la rubrique `Services`.
 
